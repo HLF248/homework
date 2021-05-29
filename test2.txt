@@ -1,0 +1,9 @@
+第二个文档
+编写一个，算了，用默写更恰当，C语言helloworld
+#include<stdio>
+
+int main
+{
+  printf("helloworld \n");
+  return 0;
+}
