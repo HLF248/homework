@@ -12,5 +12,6 @@ repository当做一个人，那branch就是他的人格，branch里面的files�
 对副本xxx进行编辑；
 编辑后，用副本取代main的步骤：open pull request、create pull request、merge pull request
 
-========================================================
+---------------------------------------------------
+2021年5月30日 19:18:41
 branch是应该理解为“版本”，一个对象在不同时间节点的状态；repository就是存放这一个个版本的盒子
